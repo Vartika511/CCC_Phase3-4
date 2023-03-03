@@ -7,3 +7,4 @@
 * [Sooraj Tomar](https://github.com/SoorajTomar)
 * [Mohit Sharma](https://github.com/itsmahi27)
 * [Jaideep Singh Garlyal](https://github.com/Jaideepgarlyal15)
+* [Harshit](https://github.com/harshitt19)
