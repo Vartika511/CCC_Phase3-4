@@ -9,3 +9,4 @@
 * [Jaideep Singh Garlyal](https://github.com/Jaideepgarlyal15)
 * [Harshit](https://github.com/harshitt19)
 * [DHRUVINKUMAR BHATT](https://github.com/dhruvinkumar)
+* [Bharath](https://github.com/BharathOO7)
