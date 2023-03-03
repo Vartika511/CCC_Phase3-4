@@ -11,3 +11,4 @@
 * [DHRUVINKUMAR BHATT](https://github.com/dhruvinkumar)
 * [Bharath](https://github.com/BharathOO7)
 * [ATULYA DEEP](https://github.com/atulya-deep)
+* [Anurag Singh](https://github.com/Anurag997)
