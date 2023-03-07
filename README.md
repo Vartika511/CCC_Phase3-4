@@ -12,3 +12,11 @@
 * [Bharath](https://github.com/BharathOO7)
 * [ATULYA DEEP](https://github.com/atulya-deep)
 * [Anurag Singh](https://github.com/Anurag997)
+* [Usman Showkat](https://github.com/usmanrangrez)
+* [Aniket Mishra](https://github.com/ani23-11)
+* [Shiven Singh](https://github.com/gitshiven)
+* [Sarthak Sethi](https://github.com/sarthaksethi12)
+* [Prakhar Srivastava](https://github.com/prakharsri007)
+* [Puneet Rai](https://github.com/Puneetpotter)
+* [Nutan Kumar](https://github.com/kumarnutan204)
+
