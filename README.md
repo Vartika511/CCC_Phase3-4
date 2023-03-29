@@ -19,4 +19,5 @@
 * [Prakhar Srivastava](https://github.com/prakharsri007)
 * [Puneet Rai](https://github.com/Puneetpotter)
 * [Nutan Kumar](https://github.com/kumarnutan204)
+* [Pranshu Gupta](https://github.com/Pranshu0204)
 
