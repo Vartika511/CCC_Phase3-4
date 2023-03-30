@@ -12,6 +12,7 @@
 * [Bharath](https://github.com/BharathOO7)
 * [ATULYA DEEP](https://github.com/atulya-deep)
 * [Anurag Singh](https://github.com/Anurag997)
+* [Aman Marlecha C](https://github.com/amanmarlecha)
 * [Usman Showkat](https://github.com/usmanrangrez)
 * [Aniket Mishra](https://github.com/ani23-11)
 * [Shiven Singh](https://github.com/gitshiven)
