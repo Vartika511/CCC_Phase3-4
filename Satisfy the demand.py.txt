@@ -1,0 +1,40 @@
+#Satisfy the demand
+def check_bookings(bookings, k):
+    # Create a list of events (arrival or departure) with their corresponding day and type
+    events = []
+    for booking in bookings:
+        events.append((booking[0], 'arrival'))
+        events.append((booking[1], 'departure'))
+
+    # Sort the events by their day and type
+    sorted_events = sorted(events, key=lambda x: (x[0], x[1]))
+
+    # Keep track of the number of rooms needed and the maximum rooms needed
+    rooms_needed = 0
+    max_rooms_needed = 0
+
+    for event in sorted_events:
+        if event[1] == 'arrival':
+            # If a booking starts before the previous booking ends, we need an additional room
+            if rooms_needed >= k:
+                return "no"
+            else:
+                rooms_needed += 1
+                max_rooms_needed = max(max_rooms_needed, rooms_needed)
+        else:
+            # If a booking ends, we free up a room
+            rooms_needed -= 1
+
+    # All bookings can be processed with the available number of rooms
+    return "yes"
+
+
+if __name__ == '__main__':
+    n, k = map(int, input().split())
+    bookings = []
+    for i in range(n):
+        arrival, departure = map(int, input().split())
+        bookings.append((arrival, departure))
+
+    result = check_bookings(bookings, k)
+    print(result)
